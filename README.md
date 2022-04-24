@@ -10,7 +10,7 @@ The code was made for two main things:
 - Compare all known values with the Schmidt predictions, based on the extreme Single-Particle model
 - Create charts of nuclides which depict nuclei with derised characteristics. To that end, the official IAEA database was also incorporated
 
-Any useful modification and/or suggestion to the code is more than welcome.
+Any useful modification and/or suggestion to the code is more than welcome. Special thanks to Prof. Ruben de Groote for his own contribution to the project.
 
 
 Contact Info:
